@@ -38,7 +38,7 @@ Copy code and run in terminal:
 <br>
 <b>Project Structure</b>
 <pre>
-- src/
+- source/
    - lane_mapping.py          <!--Main code file-->
 - videos/
    - road_view_demo.mp4       <!--Sample video for demonstration-->
