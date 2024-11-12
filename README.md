@@ -56,20 +56,20 @@ Clone the Repository:
 <pre>
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/anonymous22077/Lane-Mapping-using-OpenCV.git
 </pre>
 Navigate to the Directory:
 <pre>
 '''bash
 #Navigate to the directory
-cd lane-mapping/src
+cd lane-mapping/source
 </pre>
 
 Run the Program:
 <pre>
 '''bash
 Copy code
-python lane_mapping.py
+-[src/lane_mapping.py](src/lane_mapping.py): Main code file
 Use the Road view2.mp4 video file or replace it with any other road video for lane detection.
 </pre>
 <br>
