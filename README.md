@@ -17,7 +17,8 @@ This project demonstrates real-time lane detection in road videos using OpenCV a
 <br>
 <b><Demo:</b>
 
-Note: If GitHub doesn’t support the video format, consider linking to an external video hosting site like YouTube or converting the video to a GIF format.
+[Watch the demo video](videos/road_view_demo.mp4)
+
 <hr>
 <b>Dependencies</b>
 <br>
@@ -39,7 +40,7 @@ Copy code and run in terminal:
 <b>Project Structure</b>
 <pre>
 - source/
-   - lane_mapping.py          <!--Main code file-->
+   - lane_mapping.py         <!--Main code file-->
 - videos/
    - road_view_demo.mp4       <!--Sample video for demonstration-->
 - README.md
