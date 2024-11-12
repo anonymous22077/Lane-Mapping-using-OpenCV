@@ -39,12 +39,15 @@ Copy code and run in terminal:
 <br>
 <b>Project Structure</b>
 <pre>
-- source/
-   - lane_mapping.py         <!--Main code file-->
-- videos/
-   - road_view_demo.mp4       <!--Sample video for demonstration-->
-- README.md
-- requirements.txt            <!--List of dependencies-->
+This project demonstrates lane mapping.
+
+## Project Structure
+
+- [src/lane_mapping.py](src/lane_mapping.py): Main code file.
+- [videos/road_view_demo.mp4](videos/road_view_demo.mp4): Sample video for demonstration.
+- `README.md`: Project documentation.
+- `requirements.txt`: List of dependencies.
+
 </pre>
 <br>
 <b>How to Run</b>
